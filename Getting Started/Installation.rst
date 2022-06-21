@@ -1,4 +1,4 @@
-Installation
+*Installation
 ============
 
 osTicket comes with its own web-based installer to help guide you through the installation process without the frustration. While the installer provides step by step guide during the installation process, it's important and helpful to have general knowledge about Web servers, PHP and MySQL.
